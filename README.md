@@ -1,7 +1,7 @@
 # flexisafday7
 
 
-##Discription
+## Discription
 
 This Java program demonstrates my basic knowledge of string and number manipulation by converting strings to numeric values, performing arithmetic operations, and converting numbers back to strings. It also includes to reverse a string.
 
@@ -36,7 +36,7 @@ The `Main` class brings these classes together, demonstrating the conversions an
 
 ### `valueToString`
 
-- **Purpose**: Converts numeric values from the `toNumber` class back to strings and concatenates them.
+- **Purpose**: Converts numeric values from the `toNumber` class back to strings.
 - **Constructor**: `valueToString(toNumber number)`
 - **Methods**:
   - `getResult()`: Returns the concatenated string of all numeric values.
